@@ -3,7 +3,7 @@
 In this project i am sending push notifications using firebase Console 
 .I send data in form of key and value pairs
 key is "type" and value will be "stop" and "start". Whenever I send "start" my custom ringtone started and if I tap on the notification my mobile screen is freeze 
-I did not found any alternative or any way to open my app without on tap of notification
+I found any alternative or any way to open my app without on tap of notification showFullScreenNotification 
 and whenever I send "stop" my custom ringtone stops and now my mobile screen is backable 
 
 ## Getting Started
